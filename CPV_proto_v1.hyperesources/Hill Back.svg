@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2880px" height="1770px" viewBox="0 0 2880 1770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Hill Back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Title" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.0.2---L1--Copy" fill="#FFFFFF">
+            <path d="M1734,1286 C1831.19119,1270.17818 2009.8125,1312.65625 2089.625,1391.83594 C2169.4375,1471.01563 2260.87109,1537.56641 2339.875,1566.57031 C2442.91733,1604.3992 2683.89942,1592.02684 2880,1642 C2880,1672 2880,1702 2880,1770 C2791,1770 248,1770 -8.52651283e-14,1770 C-8.52651283e-14,1627.4353 -432,-292 125,-1.3500312e-13 C216.900687,48.1777391 435.186566,535.125509 838,869.909323 C1183.52724,1157.08179 1648,1300 1734,1286 Z" id="Hill-Back"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="392px" viewBox="0 0 960 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>BG: Mountains</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Title" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Zearn-Board" transform="translate(0.000000, -198.000000)" fill="#99DCFF">
+            <path d="M855,207 C814.802279,215.165105 819.320723,241.218523 760.709031,264.592537 C740.230154,272.758531 660.612324,277.844887 641.837175,270.660078 C629.572149,265.965406 615.77177,267.855463 605.198392,275.645067 C560.105052,308.868759 353,447 1.32160949e-12,369 L4.12114787e-13,590 L960,590 L960,198 C907,227 895.197721,198.834895 855,207 Z" id="BG:-Mountains"></path>
+        </g>
+    </g>
+</svg>

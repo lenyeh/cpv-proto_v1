@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="257px" height="314px" viewBox="0 0 257 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Snow More Snow Less</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Title" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="100" font-family="Cubano-Regular, Cubano" font-weight="normal">
+        <g id="Zearn-Board" transform="translate(-351.000000, -47.000000)" fill="#00C372">
+            <g id="Group:-Title" transform="translate(349.000000, 18.000000)">
+                <g id="Snow-More-Snow-Less" transform="translate(0.500000, 0.000000)">
+                    <text id="Snow" letter-spacing="-0.002">
+                        <tspan x="0.5713" y="100.224357">Snow</tspan>
+                    </text>
+                    <text id="more" letter-spacing="-0.002">
+                        <tspan x="4.0713" y="180.224357">mo</tspan>
+                        <tspan x="141.4673" y="180.224357" letter-spacing="-0.102">r</tspan>
+                        <tspan x="200.6653" y="180.224357">e</tspan>
+                    </text>
+                    <text id="snow" letter-spacing="-0.002">
+                        <tspan x="0.5713" y="260.224357">snow</tspan>
+                    </text>
+                    <text id="less" letter-spacing="1.983">
+                        <tspan x="19.5713" y="340.224357">l</tspan>
+                        <tspan x="73.2543" y="340.224357" letter-spacing="-0.017">ess</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

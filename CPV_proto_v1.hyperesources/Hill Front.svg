@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2880px" height="1594px" viewBox="0 0 2880 1594" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Hill Front</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Title" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.0.2---L1--Copy" transform="translate(0.000000, -176.000000)" fill="#F3FDFF">
+            <path d="M2036.2726,1507.8653 C2096.2327,1542.50404 2186.92996,1601.26322 2236.77344,1630.16406 C2355.77344,1699.16406 2485.57309,1696.33032 2716.16406,1670.38281 C2783.77745,1662.77454 2831.75458,1684.32844 2880,1714 C2880,1732 2880,1747 2880,1770 C2827,1770 115,1770 4.12114787e-13,1770 C2.55795385e-13,1480.917 -167.410238,469.842362 -2.84217094e-14,191 C58.5666502,93.4500338 162.081974,531.723215 294,589 C321.377587,600.886929 670,1022 852,1138 C1034,1254 1643,1440 1775.00781,1438.17188 C1907.01563,1436.34375 1976.3125,1473.22656 2036.2726,1507.8653 Z" id="Hill-Front"></path>
+        </g>
+    </g>
+</svg>
